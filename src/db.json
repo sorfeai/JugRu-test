@@ -1,0 +1,76 @@
+{
+  "speaches": [
+    {
+      "topic": "Разработка компилятора для TypeScript на TypeScript на базе LLVM",
+      "speaker": "Дмитрий Пацура",
+      "language": "RU",
+      "difficulty": "Hardcore"
+    },
+    {
+      "topic": "CSS Definition Syntax",
+      "speaker": "Роман Дворянов",
+      "language": "RU",
+      "difficulty": "Hardcore"
+    },
+    {
+      "topic": "A JVM Does That?",
+      "speaker": "Cliff Click",
+      "language": "EN",
+      "difficulty": "Academic"
+    },
+    {
+      "topic": "Профилирование со сверхсветовой скоростью: теория и практика",
+      "speaker": "Сергей Мельников",
+      "language": "RU",
+      "difficulty": "Intermediate"
+    },
+    {
+      "topic": "Kotlin: два года в проде и ни единого разрыва",
+      "speaker": "Павел Финкельштейн",
+      "language": "RU",
+      "difficulty": "Hot"
+    },
+    {
+      "topic": "Design Patterns in the Light of Lambda Expressions",
+      "speaker": "Венкат Субраманиам",
+      "language": "EN",
+      "difficulty": "Advanced"
+    },
+    {
+      "topic": "Тролль гнёт CUBA: F.A.Q",
+      "speaker": "Андрей Беляев, Алексей Стукалов",
+      "language": "RU",
+      "difficulty": "Hot"
+    },
+    {
+      "topic": "JIT-компилятор Falcon",
+      "speaker": "Артур Пилипенко",
+      "language": "RU",
+      "difficulty": "Advanced"
+    },
+    {
+      "topic": "GraalVM Всемогущий",
+      "speaker": "Олег Чирухин",
+      "language": "RU",
+      "difficulty": "Advanced"
+    },
+    {
+      "topic": "Java на GPU",
+      "speaker": "Дмитрий Александров",
+      "language": "RU",
+      "difficulty": "Intermediate"
+    },
+    {
+      "topic": "Spring Boot Starter: how and why?",
+      "speaker": "Кирилл Толкачёв и Максим Гореликов",
+      "language": "EN",
+      "difficulty": "Hot"
+    },
+    {
+      "topic": "Kotlin: Асинхронное программирование с корутинами",
+      "speaker": "Роман Елизаров",
+      "language": "RU",
+      "difficulty": "Hot"
+    }
+  ]
+}

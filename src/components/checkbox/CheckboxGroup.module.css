@@ -1,0 +1,16 @@
+.group:not(last-child) {
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 14px;
+  margin: 0 0 5px;
+}
+
+.checkboxes {
+  display: flex;
+}
+
+.checkboxes > *:not(:last-child) {
+  margin-right: 10px;
+}

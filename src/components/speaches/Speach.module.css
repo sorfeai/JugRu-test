@@ -1,0 +1,25 @@
+.speach {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 220px;
+  height: 220px;
+  padding: 20px;
+  background: #eaeaea;
+  border-radius: 6px;
+}
+
+.topic {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+.metaItem {
+  font-size: 14px;
+}
+
+.metaItem:not(:last-child) {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,8 @@
+.speachesList {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.speachWrapper {
+  margin: 20px;
+}
