@@ -1,10 +1,10 @@
 import * as React from "react";
 import css from "./Speach.module.css";
-import { ISpeaker, Language, Difficulty } from "../../model/speaches/types";
+import { Language, Difficulty } from "../../model/speaches/types";
 
 interface ISpeachProps {
   topic: string;
-  speaker: ISpeaker;
+  speaker: string;
   language: Language;
   difficulty: Difficulty;
 }

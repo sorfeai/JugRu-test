@@ -9,6 +9,7 @@
   ],
   "main": "src/index.tsx",
   "dependencies": {
+    "@types/redux-logger": "^3.0.7",
     "classnames": "2.2.6",
     "immer": "6.0.2",
     "lodash": "4.17.15",
@@ -16,7 +17,6 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-redux": "7.2.0",
-    "react-scripts": "3.3.0",
     "redux": "4.0.5",
     "redux-logger": "3.0.6",
     "redux-thunk": "2.3.0",
@@ -25,7 +25,9 @@
   "devDependencies": {
     "@types/react": "16.9.19",
     "@types/react-dom": "16.9.5",
-    "typescript": "3.7.5"
+    "@types/react-redux": "^7.1.7",
+    "react-scripts": "^3.4.1",
+    "typescript": "^3.8.3"
   },
   "scripts": {
     "start": "react-scripts start",
