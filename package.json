@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/redux-logger": "^3.0.7",
     "classnames": "2.2.6",
-    "immer": "6.0.2",
+    "immer": "8.0.1",
     "lodash": "4.17.15",
     "normalize.css": "8.0.1",
     "react": "^16.12.0",
